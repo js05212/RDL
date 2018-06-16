@@ -1,0 +1,4 @@
+this is relational deep learning for link prediction (MAP)
+    adapted from cdl, which is based on deepmat
+	
+For installing the code, please refer to the similar process for CDL at https://github.com/js05212/CDL.

@@ -1,0 +1,4 @@
+similar to CDL code, 
+1. compile the ctr-part code first
+2. move the compiled 'ctr' to the 'example' dir'
+3. run python multipro.py

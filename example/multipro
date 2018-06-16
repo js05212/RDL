@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#SBATCH -J slurm_job
+
+source $HOME/.bashrc
+
+#SBATCH -p gpu-k
+
+#SBATCH -N 1 -n 4 --gres=gpu:1
+
+./multipro.py
