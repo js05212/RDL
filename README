@@ -1,4 +1,4 @@
-this is relational deep learning for link prediction (MAP) adapted from cdl, which is based on deepmat (https://github.com/kyunghyuncho/deepmat)
+This is Relational Deep Learning (RDL) for link prediction (MAP) adapted from CDL, which is based on deepmat (https://github.com/kyunghyuncho/deepmat)
 
 Go to example/README for more instructions on running the code.
 	
